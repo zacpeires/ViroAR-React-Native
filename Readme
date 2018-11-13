@@ -1,0 +1,12 @@
+- multiple views / scenes
+- multiple components
+- AR buttons
+- Static buttons
+    - 'add to basket button'
+- interactive on push of button or component
+- fix image statically
+
+
+On push or swipe, rerender the AR-image being shown
+- this is single view loading in multiple objects - could potentially modularise this
+
